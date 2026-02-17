@@ -134,4 +134,5 @@ If you have questions about this Privacy Policy or wish to exercise your data ri
 
 ---
 
-*This privacy policy is hosted at: [INSERT URL WHERE YOU HOST THIS — e.g., your website or a GitHub Pages URL]*
+*This privacy policy is hosted at: https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md)
+
