@@ -1,6 +1,6 @@
 # Privacy Policy for Magic Lab
 
-**Last Updated: [INSERT DATE BEFORE SUBMISSION]**
+**Last Updated: 17/02/2026**
 
 **Developer: Spectacular Ocular / Damage Inc Ltd**
 
@@ -135,4 +135,5 @@ If you have questions about this Privacy Policy or wish to exercise your data ri
 ---
 
 *This privacy policy is hosted at: https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md)
+
 
