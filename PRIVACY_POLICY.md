@@ -1,4 +1,4 @@
-# Privacy Policy for Magic Lab
+# Privacy Policy for Spectacular Apps
 
 **Last Updated: 17/02/2026**
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Magic Lab ("the App") is a mobile application that uses artificial intelligence to animate images of toys and pets. This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+Spectacular Apps ("the App") is a mobile application that uses artificial intelligence to animate images of toys and pets. This Privacy Policy explains how we collect, use, and protect your information when you use our App.
 
 ## Information We Collect
 
