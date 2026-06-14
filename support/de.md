@@ -40,9 +40,3 @@ Wenn Ihr Video bereit ist, können Sie es in der Fotogalerie Ihres Geräts speic
 ## Datenschutz
 
 Ihre Fotos werden nur zur Erstellung Ihres Videos verwendet und nicht dauerhaft gespeichert. Lesen Sie unsere vollständige [Datenschutzrichtlinie](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md).
-
-## Kontaktieren Sie uns
-
-Benötigen Sie noch Hilfe? Schreiben Sie uns eine E-Mail an **spectacularocular@gmail.com** und wir werden Ihnen so schnell wie möglich antworten.
-
-*Entwickler: Spectacular Ocular / Damage Inc Ltd*

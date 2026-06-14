@@ -40,9 +40,3 @@ När din video är klar kan du spara den i enhetens fotogalleri och dela den til
 ## Integritet
 
 Dina foton används endast för att skapa din video och lagras inte permanent. Läs vår fullständiga [Integritetspolicy](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md).
-
-## Kontakta oss
-
-Behöver du mer hjälp? Skicka ett mejl till **spectacularocular@gmail.com** och vi svarar dig så snart vi kan.
-
-*Utvecklare: Spectacular Ocular / Damage Inc Ltd*

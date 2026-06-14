@@ -40,4 +40,3 @@ When your video is ready, you can save it to your device's photo gallery and sha
 ## Privacy
 
 Your photos are used only to create your video and are not stored permanently. Read our full [Privacy Policy](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md).
-

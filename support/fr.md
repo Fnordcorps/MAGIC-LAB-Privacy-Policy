@@ -40,9 +40,3 @@ Lorsque votre vidéo est prête, vous pouvez l'enregistrer dans la galerie de ph
 ## Confidentialité
 
 Vos photos sont utilisées uniquement pour créer votre vidéo et ne sont pas stockées de façon permanente. Lisez notre [Politique de confidentialité](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md) complète.
-
-## Nous contacter
-
-Besoin d'aide supplémentaire ? Envoyez-nous un email à **spectacularocular@gmail.com** et nous vous répondrons dès que possible.
-
-*Développeur : Spectacular Ocular / Damage Inc Ltd*

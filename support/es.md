@@ -40,9 +40,3 @@ Cuando tu video esté listo, puedes guardarlo en la galería de fotos de tu disp
 ## Privacidad
 
 Tus fotos se utilizan solo para crear tu video y no se almacenan permanentemente. Lee nuestra [Política de Privacidad](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md) completa.
-
-## Contáctanos
-
-¿Aún necesitas ayuda? Envíanos un correo electrónico a **spectacularocular@gmail.com** y nos pondremos en contacto contigo lo antes posible.
-
-*Desarrollador: Spectacular Ocular / Damage Inc Ltd*

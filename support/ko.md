@@ -40,9 +40,3 @@
 ## 개인정보보호
 
 당신의 사진은 비디오 생성에만 사용되며 영구적으로 저장되지 않습니다. 전체 [개인정보처리방침](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md)을 읽어보세요.
-
-## 문의하기
-
-도움이 더 필요하신가요? **spectacularocular@gmail.com**으로 이메일을 보내주시면 최대한 빨리 답변해드리겠습니다.
-
-*개발자: Spectacular Ocular / Damage Inc Ltd*

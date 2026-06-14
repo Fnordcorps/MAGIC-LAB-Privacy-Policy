@@ -40,9 +40,3 @@
 ## Конфиденциальность
 
 Ваши фотографии используются только для создания вашего видео и не сохраняются навсегда. Прочитайте нашу полную [Политику конфиденциальности](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md).
-
-## Свяжитесь с нами
-
-Нужна еще помощь? Напишите нам на **spectacularocular@gmail.com** и мы ответим вам как можно скорее.
-
-*Разработчик: Spectacular Ocular / Damage Inc Ltd*

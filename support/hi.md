@@ -40,9 +40,3 @@
 ## गोपनीयता
 
 आपकी फोटोज़ का उपयोग केवल आपके वीडियो को बनाने के लिए किया जाता है और स्थायी रूप से संग्रहीत नहीं किए जाते हैं। हमारी पूरी [Privacy Policy](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md) पढ़ें।
-
-## हमसे संपर्क करें
-
-अभी भी मदद चाहिए? हमें **spectacularocular@gmail.com** पर ईमेल करें और हम जल्द से जल्द आपके पास वापस आएंगे।
-
-*डेवलपर: Spectacular Ocular / Damage Inc Ltd*

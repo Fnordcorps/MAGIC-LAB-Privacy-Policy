@@ -40,9 +40,3 @@ Videonuz hazır olduğunda, cihazınızın fotoğraf galerisine kaydedebilir ve 
 ## Gizlilik
 
 Fotoğraflarınız yalnızca videonuzu oluşturmak için kullanılır ve kalıcı olarak saklanmaz. Tam [Gizlilik Politikamızı](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md) okuyun.
-
-## Bizimle iletişime geçin
-
-Hala yardıma mı ihtiyacınız var? **spectacularocular@gmail.com** adresine e-posta gönderin ve sizinle mümkün olan en kısa sürede iletişime geçeceğiz.
-
-*Geliştirici: Spectacular Ocular / Damage Inc Ltd*

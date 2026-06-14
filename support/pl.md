@@ -40,9 +40,3 @@ Gdy Twój film będzie gotowy, możesz go zapisać w galerii zdjęć swojego urz
 ## Prywatność
 
 Twoje zdjęcia są używane tylko do utworzenia Twojego filmu i nie są przechowywane na stałe. Przeczytaj naszą pełną [Politykę prywatności](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md).
-
-## Skontaktuj się z nami
-
-Wciąż potrzebujesz pomocy? Wyślij nam wiadomość email na adres **spectacularocular@gmail.com** i odniesiemy się do Ciebie tak szybko, jak to możliwe.
-
-*Deweloper: Spectacular Ocular / Damage Inc Ltd*

@@ -40,9 +40,3 @@ Wanneer je video klaar is, kun je deze opslaan in de fotogalerie van je apparaat
 ## Privacy
 
 Je foto's worden alleen gebruikt om je video te maken en worden niet permanent opgeslagen. Lees ons volledige [Privacybeleid](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md).
-
-## Neem contact met ons op
-
-Heb je nog steeds hulp nodig? Stuur ons een e-mail op **spectacularocular@gmail.com** en we helpen je zo snel mogelijk.
-
-*Ontwikkelaar: Spectacular Ocular / Damage Inc Ltd*

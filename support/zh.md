@@ -40,9 +40,3 @@
 ## 隐私
 
 您的照片仅用于创建您的视频，不会被永久存储。阅读我们的完整 [隐私政策](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md)。
-
-## 联系我们
-
-仍需帮助？请发送电子邮件至 **spectacularocular@gmail.com**，我们会尽快回复您。
-
-*开发者：Spectacular Ocular / Damage Inc Ltd*

@@ -40,9 +40,3 @@ Quando seu vídeo estiver pronto, você pode salvá-lo na galeria de fotos do se
 ## Privacidade
 
 Suas fotos são usadas apenas para criar seu vídeo e não são armazenadas permanentemente. Leia nossa [Política de Privacidade](https://github.com/Fnordcorps/MAGIC-LAB-Privacy-Policy/blob/main/PRIVACY_POLICY.md) completa.
-
-## Entre em contato
-
-Ainda precisa de ajuda? Envie um email para **spectacularocular@gmail.com** e entraremos em contato assim que possível.
-
-*Desenvolvedor: Spectacular Ocular / Damage Inc Ltd*
