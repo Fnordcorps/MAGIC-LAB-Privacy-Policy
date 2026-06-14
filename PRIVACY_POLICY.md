@@ -98,7 +98,7 @@ To exercise any of these rights, contact us at the email below.
 ### Account Deletion
 
 You can request complete deletion of your account and all associated data by:
-1. Contacting us at spectacularocular@gmail.com
+1. Contacting us at spectacular.apps@proton.me
 2. We will process deletion requests within 30 days
 3. Upon deletion, all account data, credit balances, generation history, and associated records will be permanently removed
 
@@ -129,7 +129,7 @@ Your continued use of the App after changes constitutes acceptance of the update
 
 If you have questions about this Privacy Policy or wish to exercise your data rights:
 
-- **Email**: spectacularocular@gmail.com
+- **Email**: spectacular.apps@proton.me
 - **Developer**: Spectacular Ocular/Damage Inc Ltd
 
 ---
